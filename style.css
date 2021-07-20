@@ -100,3 +100,14 @@ html, body {
 .done {
   text-decoration: line-through;
 }
+
+button {
+  margin-left: 2em;
+}
+
+li {
+  color: black;
+  font-family: 'Oswald', Helvetica, sans-serif;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
